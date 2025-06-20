@@ -1,0 +1,7 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(229, 13, 125);
+    font-size: xx-large;
+    font: bolder;
+    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1);
+}
