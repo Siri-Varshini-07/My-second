@@ -1,3 +1,4 @@
+
 document.title="Dom in javascript";
 
 document.getElementById("header").innerHTML="Hello  World";
@@ -22,4 +23,3 @@ document.getElementsByClassName("phone")[2].style.color="grey";
 document.getElementsByClassName("phone")[3].style.color="white";
 
 document.getElementById("dimple").style.width="100px";
-document.getElementById("dimple").style.height="190px";
