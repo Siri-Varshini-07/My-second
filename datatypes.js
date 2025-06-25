@@ -1,4 +1,5 @@
 
+
 let number=49;
 let string="Hello";
 let boolean=true;
@@ -26,4 +27,5 @@ console.log(objectVar);
 console.log(arrayVar);
 console.log(functionVar);
 console.log(object2);
+
 

@@ -1,4 +1,5 @@
 
+
 console.log("Hello! I'm your coding guide!");
 let botName="TeacherBot";
 let botLocation="Earth";
