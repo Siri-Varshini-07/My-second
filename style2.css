@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 850px;
+    height: 150px;
+}
+.clothes1, .clothes2, .clothes3, .clothes4, .clothes5, .clothes6, .clothes7, .clothes8{
+    display: inline-flexbox;
+    width: 250px;
+    height: 300px;
+    image-orientation: initial;
+    background-color: black;
+}
+button{
+    align-self: center;
+}
+fieldset{
+    width: 150px;
+}
+.yello{
+    display: inline-block;
+}
+body{
+    background-color: black;
+}
+fieldset{
+    color: azure;
+}
