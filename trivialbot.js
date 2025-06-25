@@ -1,3 +1,4 @@
+
 console.log("Hello! I'm your coding guide!");
 let botName="TeacherBot";
 let botLocation="Earth";
@@ -10,4 +11,3 @@ codingFact =  "I like " + favoriteLanguage;
 console.log(codingFact);
 codingFact = "Do you like " + favoriteLanguage+" too?";
 console.log(codingFact);
-console.log("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation+ ".");

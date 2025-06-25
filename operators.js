@@ -1,3 +1,4 @@
+
 //1. Arithmetic operators
 let a=10;
 let b=5;
@@ -85,4 +86,3 @@ console.log("\n");
 let VariableType= typeof a;
 console.log("Typeof Operator");
 console.log("Type of variable 'a':", VariableType );
-console.log("\n");
