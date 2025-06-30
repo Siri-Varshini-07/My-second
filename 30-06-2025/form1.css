@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: cadetblue;
+    padding: auto;
+    width: auto;
+    height: auto;
+    background-color: cornsilk;
+}
+.student{
+    background-color: antiquewhite;
+}
+body{
+    color: aquamarine;
+    background-color: darkcyan;
+}
+label{
+    display: block;
+    float: left;
+    clear: left;
+    width: 155px;
+    text-align: left;
+}
+input {
+  display: block;
+  float: left;
+}
