@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: url('https://static.vecteezy.com/system/resources/previews/010/803/399/original/background-with-colorful-shopping-bags-illustration-sale-and-discount-concept-vector.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.login-box {
+    background: #c4c7c400;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgb(253, 252, 252);
+    width: 300px;
+    color: rgb(252, 248, 248);
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.textbox {
+    margin-bottom: 20px;
+}
+
+.textbox input {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fffcfc36;
+    color: white;
+    transition: 0.3s;
+}
+
+.textbox input:focus {
+    background-color: #33333300;
+}
+
+.login-options {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.login-options label {
+    text-align: center;
+    color: #fbf9f9;
+}
+.forgot-password {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.forgot-password label {
+    text-align: center;
+    color: #fbf9f9;
+}
+.forgot-password a {
+    text-align: center;
+    color: #fbf9f9;
+}
+.btn {
+    background-color: #ff6f61;
+    border: none;
+    padding: 12px 20px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background-color: #ff4c3b;
+}
+
+.signup-option {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.signup-option a {
+    color: #ff6f61;
+    text-decoration: none;
+}
