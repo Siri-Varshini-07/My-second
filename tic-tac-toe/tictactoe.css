@@ -1,0 +1,30 @@
+#tic{
+    width: 180px;
+    height: 80px;
+    background-color: plum;
+    border-color: gold;
+    margin-top: 120px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: center;
+    font-family: cursive;
+}
+#tic:hover{
+    background-color: rgb(216, 74, 216);
+    color: azure;
+}
+h1{
+    background-color:rgb(191, 50, 204);
+    color: azure;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 25px;
+    border: 3px;
+    border-style: solid;
+    border-color: gold;
+}
+body{
+    background-image: url('https://wallpaperaccess.com/full/376180.gif')
+}
