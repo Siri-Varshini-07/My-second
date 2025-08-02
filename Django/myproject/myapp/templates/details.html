@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Details</title>
+</head>
+<body>
+    <h1>Student Details Page</h1>
+    <h2>{{ Student.name }}</h2>
+    <p>Roll no: {{ Student.roll_no }}</p>
+    <p>Current semester: {{ Student.slug }}</p>
+
+    {% if Student.photo %}
+        <img src="{{ Student.photo.url }}" alt="{{ Student.name }}'s photo" style="max-width: 200px;">
+    {% else %}
+        <p>No photo available</p>
+    {% endif %}
+</body>
+</html>
