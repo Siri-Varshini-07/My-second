@@ -10,10 +10,6 @@ Feel free to poke around — each project has its own README with setup instruct
 
 ---
 
-```
-
-```
-
 Each project is self-contained.
 
 ---
